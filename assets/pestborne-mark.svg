@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" role="img" aria-label="PestBorne shield">
+<path fill="#d3f65a" d="M24 4 41 10v12c0 10-6.4 17.6-17 22C13.4 39.6 7 32 7 22V10z"/>
+<path fill="#0c261b" d="M24 8.2 37 12.8v9.1c0 7.6-4.6 13.8-13 17.6C15.6 35.7 11 29.5 11 21.9v-9.1z"/>
+<path fill="#d3f65a" d="M17.1 14.5h9.3c4.6 0 7.3 2.5 7.3 6.5s-2.7 6.6-7.3 6.6h-4.5v6.2h-4.8zm4.8 4v5.1h4.2c1.9 0 2.8-.9 2.8-2.6 0-1.6-.9-2.5-2.8-2.5z"/>
+<path d="M17 10 14 6m17 4 3-4" stroke="#d3f65a" stroke-width="2.2" stroke-linecap="round"/>
+<circle cx="13.4" cy="5.3" r="1.7" fill="#d3f65a"/><circle cx="34.6" cy="5.3" r="1.7" fill="#d3f65a"/>
+</svg>
